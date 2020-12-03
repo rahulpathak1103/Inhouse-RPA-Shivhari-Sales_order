@@ -1,0 +1,15 @@
+{
+    "pharmassist_exe_name": "pharmassist2",
+    "pharmassist_path": "D:\\NEWSHPPL\\pharmassist2.exe",
+    "pharmeassist_purchase_order_app": "C:\\NEW UAT\\NEW_SYBASE16_CLIENTSETUP\\pharmassist2.exe",
+    "sales_main_window_title": "SHIVHARI PHARMACEUTICALS.*Sales Order",
+    "purchase_main_window_title": "Purchase Order Entry",
+    "login_username": "HARISH",
+    "login_password": "07041979",
+    "is_kill_app": false,
+    "distributor_id": "2404",
+    "distributor_name": "Shivhari",
+    "tagui_path": "C:\\Users\\Administrator\\Documents\\appium\\tagui",
+    "sms_number": "918898046212, 919619202123",
+    "alert_enabled": true
+  }
